@@ -22,6 +22,6 @@ LastName, FirstName, Gender, FavoriteColor, DateOfBirth
 The space-delimited file looks like this:
 LastName FirstName MiddleInitial Gender DateOfBirth FavoriteColor
 
-Step 1: Parse Strings into PERSON objects
+Step 1: Parse Strings into one People object - done - 
 
 Step 2: Add Sort filters to the categories.

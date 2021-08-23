@@ -116,17 +116,3 @@ let people = [
 
 console.log(people);
 
-// user = [{
-//   firstName: "name",
-//   lastName: "last",
-//   middleInitial: "mid",
-//   dob: Date,
-//   gender: "m",
-//   color: "red",
-// }];
-
-// var stringWithCommas = 'a,b,c,d';
-// var stringWithoutCommas = stringWithCommas.replace(/,/g, '');
-// console.log(stringWithoutCommas);
-
-// console.log(inputC.replace(/\|/g, ''));

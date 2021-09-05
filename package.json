@@ -1,0 +1,23 @@
+{
+  "name": "Sorted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlwhite112/Sorted.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlwhite112/Sorted/issues"
+  },
+  "homepage": "https://github.com/dlwhite112/Sorted#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}

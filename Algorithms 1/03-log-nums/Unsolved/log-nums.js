@@ -9,3 +9,4 @@ var logNums = function(num) {
     }
     
 };
+module.exports = logNums
